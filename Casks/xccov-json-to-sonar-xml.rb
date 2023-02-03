@@ -6,4 +6,6 @@ cask "xccov-json-to-sonar-xml" do
   name "xccov-json-to-sonar-xml"
   desc "Tool to convert Xcode code coverage to SonarQube generic format"
   homepage "https://github.com/ondrejstasek/xccov-json-to-sonar-xml/"
+
+  binary "xccov-json-to-sonar-xml"
 end
