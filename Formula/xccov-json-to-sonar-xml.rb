@@ -1,7 +1,7 @@
 class XccovJsonToSonarXml < Formula
     desc "Command-line tool to convert Xcode code coverage to SonarQube generic format"
     homepage "https://github.com/ondrejstasek/xccov-json-to-sonar-xml/"
-    url "https://github.com/ondrejstasek/xccov-json-to-sonar-xml.git", :tag => "1.3.0"
+    url "https://github.com/ondrejstasek/xccov-json-to-sonar-xml.git", :tag => "1.3.1"
   
     depends_on :xcode => ["11.0", :build]
   
